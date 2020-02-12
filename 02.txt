@@ -1,0 +1,859 @@
+Amex	Albuquerque
+Amex	Albuquerque
+Amex	Albuquerque
+Amex	Anaheim
+Amex	Anaheim
+Amex	Anchorage
+Amex	Anchorage
+Amex	Anchorage
+Amex	Arlington
+Amex	Austin
+Amex	Austin
+Amex	Baltimore
+Amex	Baltimore
+Amex	Baltimore
+Amex	Baltimore
+Amex	Baton Rouge
+Amex	Baton Rouge
+Amex	Baton Rouge
+Amex	Boise
+Amex	Boston
+Amex	Boston
+Amex	Boston
+Amex	Boston
+Amex	Chandler
+Amex	Chandler
+Amex	Charlotte
+Amex	Chesapeake
+Amex	Chesapeake
+Amex	Chicago
+Amex	Chula Vista
+Amex	Cincinnati
+Amex	Cleveland
+Amex	Cleveland
+Amex	Cleveland
+Amex	Colorado Springs
+Amex	Corpus Christi
+Amex	Corpus Christi
+Amex	Dallas
+Amex	Dallas
+Amex	Dallas
+Amex	Denver
+Amex	Detroit
+Amex	Detroit
+Amex	Detroit
+Amex	Durham
+Amex	Durham
+Amex	El Paso
+Amex	Fort Wayne
+Amex	Fort Wayne
+Amex	Fort Wayne
+Amex	Fresno
+Amex	Fresno
+Amex	Garland
+Amex	Glendale
+Amex	Greensboro
+Amex	Greensboro
+Amex	Greensboro
+Amex	Henderson
+Amex	Henderson
+Amex	Honolulu
+Amex	Honolulu
+Amex	Houston
+Amex	Houston
+Amex	Houston
+Amex	Indianapolis
+Amex	Indianapolis
+Amex	Indianapolis
+Amex	Indianapolis
+Amex	Irvine
+Amex	Irvine
+Amex	Irvine
+Amex	Irving
+Amex	Jacksonville
+Amex	Jacksonville
+Amex	Jacksonville
+Amex	Jersey City
+Amex	Jersey City
+Amex	Jersey City
+Amex	Jersey City
+Amex	Kansas City
+Amex	Laredo
+Amex	Las Vegas
+Amex	Las Vegas
+Amex	Las Vegas
+Amex	Lincoln
+Amex	Long Beach
+Amex	Long Beach
+Amex	Louisville
+Amex	Lubbock
+Amex	Memphis
+Amex	Memphis
+Amex	Memphis
+Amex	Mesa
+Amex	Miami
+Amex	Miami
+Amex	Miami
+Amex	Milwaukee
+Amex	Milwaukee
+Amex	Minneapolis
+Amex	Nashville
+Amex	Nashville
+Amex	Nashville
+Amex	New Orleans
+Amex	New York
+Amex	New York
+Amex	Norfolk
+Amex	Norfolk
+Amex	Norfolk
+Amex	North Las Vegas
+Amex	North Las Vegas
+Amex	Oakland
+Amex	Oakland
+Amex	Oakland
+Amex	Oklahoma City
+Amex	Orlando
+Amex	Philadelphia
+Amex	Philadelphia
+Amex	Phoenix
+Amex	Phoenix
+Amex	Pittsburgh
+Amex	Portland
+Amex	Richmond
+Amex	Rochester
+Amex	Rochester
+Amex	Saint Paul
+Amex	Saint Paul
+Amex	San Antonio
+Amex	San Antonio
+Amex	San Antonio
+Amex	San Bernardino
+Amex	San Bernardino
+Amex	San Bernardino
+Amex	San Bernardino
+Amex	San Diego
+Amex	San Francisco
+Amex	San Francisco
+Amex	San Jose
+Amex	San Jose
+Amex	Santa Ana
+Amex	Santa Ana
+Amex	Scottsdale
+Amex	Scottsdale
+Amex	Scottsdale
+Amex	Scottsdale
+Amex	Seattle
+Amex	Seattle
+Amex	Spokane
+Amex	Spokane
+Amex	Stockton
+Amex	Tampa
+Amex	Tampa
+Amex	Tampa
+Amex	Toledo
+Amex	Tucson
+Amex	Tucson
+Amex	Tucson
+Amex	Tulsa
+Amex	Tulsa
+Amex	Virginia Beach
+Amex	Washington
+Amex	Winston–Salem
+Cash	Albuquerque
+Cash	Albuquerque
+Cash	Albuquerque
+Cash	Albuquerque
+Cash	Albuquerque
+Cash	Anaheim
+Cash	Anchorage
+Cash	Anchorage
+Cash	Atlanta
+Cash	Aurora
+Cash	Bakersfield
+Cash	Baltimore
+Cash	Baton Rouge
+Cash	Birmingham
+Cash	Birmingham
+Cash	Birmingham
+Cash	Boise
+Cash	Boise
+Cash	Boston
+Cash	Boston
+Cash	Boston
+Cash	Chandler
+Cash	Chandler
+Cash	Chandler
+Cash	Chandler
+Cash	Charlotte
+Cash	Chesapeake
+Cash	Chesapeake
+Cash	Chesapeake
+Cash	Chicago
+Cash	Chicago
+Cash	Chicago
+Cash	Colorado Springs
+Cash	Corpus Christi
+Cash	Corpus Christi
+Cash	Corpus Christi
+Cash	Dallas
+Cash	Detroit
+Cash	Detroit
+Cash	Durham
+Cash	Durham
+Cash	El Paso
+Cash	El Paso
+Cash	Fremont
+Cash	Fremont
+Cash	Fresno
+Cash	Garland
+Cash	Garland
+Cash	Gilbert
+Cash	Gilbert
+Cash	Gilbert
+Cash	Greensboro
+Cash	Honolulu
+Cash	Honolulu
+Cash	Honolulu
+Cash	Honolulu
+Cash	Houston
+Cash	Houston
+Cash	Houston
+Cash	Irvine
+Cash	Irvine
+Cash	Irving
+Cash	Jacksonville
+Cash	Jersey City
+Cash	Jersey City
+Cash	Jersey City
+Cash	Kansas City
+Cash	Kansas City
+Cash	Laredo
+Cash	Laredo
+Cash	Laredo
+Cash	Las Vegas
+Cash	Lexington
+Cash	Lincoln
+Cash	Lincoln
+Cash	Long Beach
+Cash	Louisville
+Cash	Louisville
+Cash	Lubbock
+Cash	Madison
+Cash	Memphis
+Cash	Memphis
+Cash	Mesa
+Cash	Mesa
+Cash	Miami
+Cash	Milwaukee
+Cash	Minneapolis
+Cash	Minneapolis
+Cash	Minneapolis
+Cash	Minneapolis
+Cash	Nashville
+Cash	Nashville
+Cash	New Orleans
+Cash	New Orleans
+Cash	New York
+Cash	New York
+Cash	New York
+Cash	New York
+Cash	Newark
+Cash	Newark
+Cash	Newark
+Cash	Newark
+Cash	Norfolk
+Cash	Norfolk
+Cash	North Las Vegas
+Cash	North Las Vegas
+Cash	Oklahoma City
+Cash	Omaha
+Cash	Orlando
+Cash	Philadelphia
+Cash	Philadelphia
+Cash	Pittsburgh
+Cash	Pittsburgh
+Cash	Plano
+Cash	Richmond
+Cash	Richmond
+Cash	Riverside
+Cash	Riverside
+Cash	Riverside
+Cash	Riverside
+Cash	Rochester
+Cash	Rochester
+Cash	Rochester
+Cash	Sacramento
+Cash	Sacramento
+Cash	Saint Paul
+Cash	Saint Paul
+Cash	San Bernardino
+Cash	San Bernardino
+Cash	San Diego
+Cash	San Diego
+Cash	San Francisco
+Cash	San Francisco
+Cash	San Francisco
+Cash	San Jose
+Cash	San Jose
+Cash	San Jose
+Cash	San Jose
+Cash	San Jose
+Cash	Santa Ana
+Cash	Santa Ana
+Cash	Scottsdale
+Cash	Scottsdale
+Cash	Seattle
+Cash	Seattle
+Cash	Spokane
+Cash	St. Louis
+Cash	St. Petersburg
+Cash	St. Petersburg
+Cash	St. Petersburg
+Cash	Stockton
+Cash	Tampa
+Cash	Tampa
+Cash	Toledo
+Cash	Toledo
+Cash	Toledo
+Cash	Toledo
+Cash	Tulsa
+Cash	Virginia Beach
+Cash	Washington
+Cash	Washington
+Cash	Wichita
+Cash	Wichita
+Cash	Winston–Salem
+Cash	Winston–Salem
+Discover	Albuquerque
+Discover	Anaheim
+Discover	Anaheim
+Discover	Anchorage
+Discover	Anchorage
+Discover	Anchorage
+Discover	Arlington
+Discover	Atlanta
+Discover	Austin
+Discover	Austin
+Discover	Austin
+Discover	Austin
+Discover	Bakersfield
+Discover	Bakersfield
+Discover	Baltimore
+Discover	Baltimore
+Discover	Baltimore
+Discover	Baltimore
+Discover	Baton Rouge
+Discover	Birmingham
+Discover	Boise
+Discover	Boise
+Discover	Boise
+Discover	Boise
+Discover	Boston
+Discover	Boston
+Discover	Buffalo
+Discover	Chandler
+Discover	Charlotte
+Discover	Chesapeake
+Discover	Chicago
+Discover	Chicago
+Discover	Chicago
+Discover	Chula Vista
+Discover	Cincinnati
+Discover	Cleveland
+Discover	Colorado Springs
+Discover	Colorado Springs
+Discover	Columbus
+Discover	Corpus Christi
+Discover	Denver
+Discover	Denver
+Discover	Detroit
+Discover	Durham
+Discover	Durham
+Discover	Fort Worth
+Discover	Fremont
+Discover	Fremont
+Discover	Garland
+Discover	Garland
+Discover	Gilbert
+Discover	Gilbert
+Discover	Gilbert
+Discover	Glendale
+Discover	Greensboro
+Discover	Greensboro
+Discover	Greensboro
+Discover	Hialeah
+Discover	Hialeah
+Discover	Hialeah
+Discover	Honolulu
+Discover	Honolulu
+Discover	Honolulu
+Discover	Houston
+Discover	Houston
+Discover	Houston
+Discover	Houston
+Discover	Indianapolis
+Discover	Irvine
+Discover	Irving
+Discover	Irving
+Discover	Irving
+Discover	Kansas City
+Discover	Kansas City
+Discover	Laredo
+Discover	Las Vegas
+Discover	Las Vegas
+Discover	Lexington
+Discover	Lexington
+Discover	Lexington
+Discover	Lexington
+Discover	Lexington
+Discover	Lincoln
+Discover	Lincoln
+Discover	Lincoln
+Discover	Lincoln
+Discover	Long Beach
+Discover	Long Beach
+Discover	Long Beach
+Discover	Los Angeles
+Discover	Louisville
+Discover	Lubbock
+Discover	Lubbock
+Discover	Mesa
+Discover	Mesa
+Discover	Miami
+Discover	Milwaukee
+Discover	Milwaukee
+Discover	Nashville
+Discover	Nashville
+Discover	Nashville
+Discover	Nashville
+Discover	New Orleans
+Discover	New Orleans
+Discover	New York
+Discover	New York
+Discover	Norfolk
+Discover	Oakland
+Discover	Oklahoma City
+Discover	Oklahoma City
+Discover	Oklahoma City
+Discover	Omaha
+Discover	Omaha
+Discover	Omaha
+Discover	Philadelphia
+Discover	Phoenix
+Discover	Phoenix
+Discover	Pittsburgh
+Discover	Pittsburgh
+Discover	Pittsburgh
+Discover	Plano
+Discover	Plano
+Discover	Portland
+Discover	Portland
+Discover	Raleigh
+Discover	Raleigh
+Discover	Reno
+Discover	Reno
+Discover	Reno
+Discover	Richmond
+Discover	Richmond
+Discover	Richmond
+Discover	Richmond
+Discover	Richmond
+Discover	Riverside
+Discover	Riverside
+Discover	Sacramento
+Discover	Sacramento
+Discover	Sacramento
+Discover	San Antonio
+Discover	San Bernardino
+Discover	San Bernardino
+Discover	San Diego
+Discover	San Francisco
+Discover	San Francisco
+Discover	San Francisco
+Discover	San Jose
+Discover	Santa Ana
+Discover	Santa Ana
+Discover	Santa Ana
+Discover	Santa Ana
+Discover	Scottsdale
+Discover	Seattle
+Discover	Seattle
+Discover	Seattle
+Discover	Spokane
+Discover	St. Petersburg
+Discover	St. Petersburg
+Discover	St. Petersburg
+Discover	Tampa
+Discover	Tampa
+Discover	Toledo
+Discover	Toledo
+Discover	Toledo
+Discover	Toledo
+Discover	Tucson
+Discover	Tucson
+Discover	Tulsa
+Discover	Tulsa
+Discover	Tulsa
+Discover	Virginia Beach
+Discover	Washington
+Discover	Winston–Salem
+Discover	Winston–Salem
+Discover	Winston–Salem
+MasterCard	Albuquerque
+MasterCard	Albuquerque
+MasterCard	Anaheim
+MasterCard	Anaheim
+MasterCard	Anaheim
+MasterCard	Anchorage
+MasterCard	Anchorage
+MasterCard	Arlington
+MasterCard	Atlanta
+MasterCard	Atlanta
+MasterCard	Atlanta
+MasterCard	Aurora
+MasterCard	Aurora
+MasterCard	Aurora
+MasterCard	Aurora
+MasterCard	Austin
+MasterCard	Austin
+MasterCard	Austin
+MasterCard	Bakersfield
+MasterCard	Bakersfield
+MasterCard	Bakersfield
+MasterCard	Baltimore
+MasterCard	Baton Rouge
+MasterCard	Birmingham
+MasterCard	Boise
+MasterCard	Boston
+MasterCard	Buffalo
+MasterCard	Chandler
+MasterCard	Chesapeake
+MasterCard	Chesapeake
+MasterCard	Chicago
+MasterCard	Chicago
+MasterCard	Chula Vista
+MasterCard	Chula Vista
+MasterCard	Colorado Springs
+MasterCard	Colorado Springs
+MasterCard	Colorado Springs
+MasterCard	Colorado Springs
+MasterCard	Columbus
+MasterCard	Columbus
+MasterCard	Columbus
+MasterCard	Corpus Christi
+MasterCard	Dallas
+MasterCard	Denver
+MasterCard	Detroit
+MasterCard	Durham
+MasterCard	El Paso
+MasterCard	Fort Wayne
+MasterCard	Fort Wayne
+MasterCard	Fort Worth
+MasterCard	Fort Worth
+MasterCard	Fort Worth
+MasterCard	Fremont
+MasterCard	Fremont
+MasterCard	Fresno
+MasterCard	Fresno
+MasterCard	Garland
+MasterCard	Garland
+MasterCard	Glendale
+MasterCard	Glendale
+MasterCard	Glendale
+MasterCard	Greensboro
+MasterCard	Greensboro
+MasterCard	Hialeah
+MasterCard	Houston
+MasterCard	Irvine
+MasterCard	Jacksonville
+MasterCard	Jacksonville
+MasterCard	Jersey City
+MasterCard	Jersey City
+MasterCard	Jersey City
+MasterCard	Kansas City
+MasterCard	Kansas City
+MasterCard	Kansas City
+MasterCard	Kansas City
+MasterCard	Laredo
+MasterCard	Lexington
+MasterCard	Lincoln
+MasterCard	Lincoln
+MasterCard	Los Angeles
+MasterCard	Louisville
+MasterCard	Lubbock
+MasterCard	Lubbock
+MasterCard	Lubbock
+MasterCard	Lubbock
+MasterCard	Lubbock
+MasterCard	Madison
+MasterCard	Memphis
+MasterCard	Memphis
+MasterCard	Mesa
+MasterCard	Mesa
+MasterCard	Mesa
+MasterCard	Mesa
+MasterCard	Mesa
+MasterCard	Mesa
+MasterCard	Miami
+MasterCard	Miami
+MasterCard	Milwaukee
+MasterCard	Milwaukee
+MasterCard	Milwaukee
+MasterCard	Minneapolis
+MasterCard	Minneapolis
+MasterCard	New Orleans
+MasterCard	New York
+MasterCard	New York
+MasterCard	Newark
+MasterCard	Norfolk
+MasterCard	Oakland
+MasterCard	Oakland
+MasterCard	Oklahoma City
+MasterCard	Omaha
+MasterCard	Omaha
+MasterCard	Omaha
+MasterCard	Omaha
+MasterCard	Orlando
+MasterCard	Philadelphia
+MasterCard	Philadelphia
+MasterCard	Pittsburgh
+MasterCard	Plano
+MasterCard	Portland
+MasterCard	Raleigh
+MasterCard	Raleigh
+MasterCard	Raleigh
+MasterCard	Reno
+MasterCard	Reno
+MasterCard	Richmond
+MasterCard	Richmond
+MasterCard	Riverside
+MasterCard	Rochester
+MasterCard	Sacramento
+MasterCard	Saint Paul
+MasterCard	San Antonio
+MasterCard	San Bernardino
+MasterCard	San Diego
+MasterCard	San Francisco
+MasterCard	San Francisco
+MasterCard	San Francisco
+MasterCard	San Francisco
+MasterCard	San Jose
+MasterCard	San Jose
+MasterCard	San Jose
+MasterCard	Scottsdale
+MasterCard	Scottsdale
+MasterCard	Seattle
+MasterCard	Seattle
+MasterCard	Spokane
+MasterCard	Spokane
+MasterCard	Spokane
+MasterCard	Stockton
+MasterCard	Stockton
+MasterCard	Stockton
+MasterCard	Tampa
+MasterCard	Tampa
+MasterCard	Toledo
+MasterCard	Tucson
+MasterCard	Tucson
+MasterCard	Tucson
+MasterCard	Virginia Beach
+MasterCard	Washington
+MasterCard	Washington
+MasterCard	Washington
+MasterCard	Wichita
+MasterCard	Wichita
+MasterCard	Wichita
+MasterCard	Wichita
+MasterCard	Wichita
+MasterCard	Winston–Salem
+Visa	Anaheim
+Visa	Anchorage
+Visa	Anchorage
+Visa	Arlington
+Visa	Arlington
+Visa	Atlanta
+Visa	Atlanta
+Visa	Aurora
+Visa	Austin
+Visa	Austin
+Visa	Austin
+Visa	Bakersfield
+Visa	Baltimore
+Visa	Baltimore
+Visa	Baltimore
+Visa	Baton Rouge
+Visa	Birmingham
+Visa	Boston
+Visa	Boston
+Visa	Buffalo
+Visa	Buffalo
+Visa	Buffalo
+Visa	Chandler
+Visa	Chandler
+Visa	Chandler
+Visa	Chandler
+Visa	Charlotte
+Visa	Charlotte
+Visa	Charlotte
+Visa	Chicago
+Visa	Chicago
+Visa	Chicago
+Visa	Chula Vista
+Visa	Cincinnati
+Visa	Cincinnati
+Visa	Cincinnati
+Visa	Cincinnati
+Visa	Cleveland
+Visa	Colorado Springs
+Visa	Columbus
+Visa	Columbus
+Visa	Columbus
+Visa	Columbus
+Visa	Columbus
+Visa	Denver
+Visa	Denver
+Visa	Durham
+Visa	Durham
+Visa	El Paso
+Visa	El Paso
+Visa	Fort Wayne
+Visa	Fort Worth
+Visa	Fort Worth
+Visa	Fort Worth
+Visa	Fort Worth
+Visa	Fort Worth
+Visa	Fort Worth
+Visa	Fremont
+Visa	Fremont
+Visa	Fresno
+Visa	Fresno
+Visa	Gilbert
+Visa	Glendale
+Visa	Greensboro
+Visa	Greensboro
+Visa	Greensboro
+Visa	Greensboro
+Visa	Greensboro
+Visa	Henderson
+Visa	Henderson
+Visa	Hialeah
+Visa	Honolulu
+Visa	Houston
+Visa	Houston
+Visa	Indianapolis
+Visa	Irving
+Visa	Irving
+Visa	Jacksonville
+Visa	Jersey City
+Visa	Jersey City
+Visa	Jersey City
+Visa	Kansas City
+Visa	Kansas City
+Visa	Kansas City
+Visa	Las Vegas
+Visa	Las Vegas
+Visa	Las Vegas
+Visa	Las Vegas
+Visa	Lexington
+Visa	Lexington
+Visa	Lexington
+Visa	Lincoln
+Visa	Lincoln
+Visa	Long Beach
+Visa	Los Angeles
+Visa	Los Angeles
+Visa	Los Angeles
+Visa	Louisville
+Visa	Lubbock
+Visa	Lubbock
+Visa	Lubbock
+Visa	Madison
+Visa	Madison
+Visa	Madison
+Visa	Madison
+Visa	Madison
+Visa	Memphis
+Visa	Memphis
+Visa	Memphis
+Visa	Miami
+Visa	Milwaukee
+Visa	Milwaukee
+Visa	Milwaukee
+Visa	Milwaukee
+Visa	Minneapolis
+Visa	Minneapolis
+Visa	Minneapolis
+Visa	Nashville
+Visa	New Orleans
+Visa	New Orleans
+Visa	New York
+Visa	New York
+Visa	Newark
+Visa	Newark
+Visa	Norfolk
+Visa	Norfolk
+Visa	Norfolk
+Visa	North Las Vegas
+Visa	Oakland
+Visa	Oakland
+Visa	Oklahoma City
+Visa	Omaha
+Visa	Omaha
+Visa	Philadelphia
+Visa	Phoenix
+Visa	Phoenix
+Visa	Phoenix
+Visa	Phoenix
+Visa	Pittsburgh
+Visa	Pittsburgh
+Visa	Plano
+Visa	Plano
+Visa	Plano
+Visa	Plano
+Visa	Portland
+Visa	Portland
+Visa	Raleigh
+Visa	Raleigh
+Visa	Reno
+Visa	Reno
+Visa	Reno
+Visa	Reno
+Visa	Reno
+Visa	Reno
+Visa	Richmond
+Visa	Riverside
+Visa	Rochester
+Visa	Sacramento
+Visa	Sacramento
+Visa	Saint Paul
+Visa	Saint Paul
+Visa	Saint Paul
+Visa	San Bernardino
+Visa	San Diego
+Visa	San Diego
+Visa	San Jose
+Visa	Santa Ana
+Visa	Santa Ana
+Visa	Santa Ana
+Visa	Scottsdale
+Visa	Scottsdale
+Visa	Scottsdale
+Visa	Scottsdale
+Visa	Seattle
+Visa	Spokane
+Visa	Spokane
+Visa	St. Louis
+Visa	St. Louis
+Visa	St. Petersburg
+Visa	St. Petersburg
+Visa	Stockton
+Visa	Stockton
+Visa	Tampa
+Visa	Toledo
+Visa	Tucson
+Visa	Tucson
+Visa	Tulsa
+Visa	Tulsa
+Visa	Virginia Beach
+Visa	Winston–Salem
+Visa	Winston–Salem

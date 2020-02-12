@@ -1,0 +1,859 @@
+Amex	San Jose
+Visa	Fort Worth
+Cash	San Diego
+Discover	Pittsburgh
+MasterCard	Omaha
+MasterCard	Stockton
+Visa	Austin
+Cash	New York
+Discover	Corpus Christi
+Visa	Fort Worth
+Visa	Las Vegas
+Cash	Newark
+MasterCard	Austin
+MasterCard	Greensboro
+Discover	San Francisco
+Visa	Lincoln
+Visa	Buffalo
+Cash	San Jose
+Amex	Boston
+Visa	Houston
+Visa	Las Vegas
+Amex	Virginia Beach
+Cash	Riverside
+Visa	Tulsa
+Visa	Reno
+Cash	Chicago
+Amex	Fort Wayne
+Cash	San Bernardino
+Visa	Madison
+Discover	Austin
+Amex	Portland
+Discover	Riverside
+Visa	Reno
+MasterCard	Anchorage
+Amex	Pittsburgh
+Amex	Spokane
+MasterCard	Spokane
+MasterCard	Fresno
+MasterCard	Omaha
+Amex	Anchorage
+MasterCard	Aurora
+Cash	Philadelphia
+Cash	Fremont
+Amex	Anchorage
+Amex	Norfolk
+Cash	Chandler
+Visa	Minneapolis
+Discover	Honolulu
+Discover	Indianapolis
+Discover	Chandler
+Amex	Saint Paul
+Discover	New York
+Discover	Greensboro
+MasterCard	Spokane
+Discover	Boise
+Visa	Fresno
+Visa	Durham
+Cash	Riverside
+Visa	Lexington
+Visa	Durham
+Discover	Garland
+MasterCard	Kansas City
+Discover	Atlanta
+Discover	Boise
+Amex	New York
+Cash	Riverside
+Discover	San Bernardino
+MasterCard	Wichita
+Visa	Santa Ana
+Discover	New Orleans
+Discover	Fremont
+Discover	Pittsburgh
+MasterCard	Memphis
+Visa	Chicago
+Discover	Virginia Beach
+Visa	Omaha
+Visa	Tucson
+Amex	Nashville
+Discover	Washington
+MasterCard	Greensboro
+Discover	Tulsa
+Visa	Cincinnati
+Visa	Charlotte
+Discover	Austin
+Visa	Anchorage
+Cash	Albuquerque
+Cash	Santa Ana
+Discover	Milwaukee
+MasterCard	Jacksonville
+Visa	Phoenix
+MasterCard	Anchorage
+Cash	Norfolk
+Amex	San Antonio
+Discover	New Orleans
+Discover	Riverside
+Discover	St. Petersburg
+Visa	Lubbock
+Cash	Toledo
+Visa	Oakland
+Amex	Philadelphia
+Discover	Scottsdale
+Cash	Chandler
+MasterCard	San Diego
+Visa	Anaheim
+Discover	Lincoln
+Cash	Jersey City
+Discover	Santa Ana
+MasterCard	Philadelphia
+Cash	Minneapolis
+Visa	El Paso
+Cash	Boston
+MasterCard	Washington
+Visa	Austin
+Discover	Tampa
+Amex	Boston
+Amex	Cleveland
+MasterCard	Arlington
+Cash	Fresno
+Cash	Kansas City
+Visa	Phoenix
+Cash	Riverside
+Visa	Columbus
+Amex	Cincinnati
+Discover	Houston
+Cash	Kansas City
+Visa	Fort Worth
+MasterCard	Raleigh
+Discover	Lubbock
+Discover	Seattle
+Visa	Greensboro
+Amex	Detroit
+Visa	Rochester
+Amex	Jersey City
+MasterCard	Omaha
+Amex	Jacksonville
+Amex	Nashville
+Cash	Omaha
+Amex	Dallas
+Amex	Long Beach
+Amex	Scottsdale
+Discover	Lexington
+Discover	Honolulu
+Visa	Pittsburgh
+Amex	Memphis
+Visa	Memphis
+Amex	Kansas City
+Discover	Lexington
+MasterCard	Toledo
+Visa	Jersey City
+Visa	Denver
+MasterCard	Houston
+MasterCard	Mesa
+Visa	Madison
+Amex	Santa Ana
+Visa	Gilbert
+Visa	Jacksonville
+Discover	Gilbert
+Amex	Seattle
+Visa	Reno
+Visa	Saint Paul
+Discover	Bakersfield
+Amex	Chesapeake
+MasterCard	Glendale
+MasterCard	Durham
+Cash	New Orleans
+Cash	Honolulu
+MasterCard	Chandler
+MasterCard	Boston
+Discover	Baltimore
+Discover	Denver
+MasterCard	Lubbock
+Cash	San Diego
+Cash	North Las Vegas
+MasterCard	Lincoln
+MasterCard	Miami
+Visa	Phoenix
+Amex	Miami
+MasterCard	Irvine
+Visa	Madison
+Visa	Los Angeles
+Visa	Fresno
+Discover	Tulsa
+Amex	Jacksonville
+Discover	Albuquerque
+Amex	Memphis
+MasterCard	Chicago
+Visa	New Orleans
+MasterCard	Anaheim
+Cash	Orlando
+Visa	Oakland
+Visa	Fort Worth
+Visa	Winston–Salem
+Discover	Boston
+Discover	St. Petersburg
+Discover	Toledo
+Cash	Lubbock
+Cash	Albuquerque
+MasterCard	Mesa
+Visa	Omaha
+MasterCard	Chesapeake
+Discover	Louisville
+Cash	San Francisco
+MasterCard	Jersey City
+Cash	Irving
+Visa	Lexington
+Amex	Cleveland
+Visa	Hialeah
+Cash	Dallas
+Cash	Toledo
+Cash	San Jose
+Visa	Milwaukee
+MasterCard	Kansas City
+Discover	New York
+Visa	Las Vegas
+Visa	Spokane
+MasterCard	Raleigh
+Discover	Houston
+Cash	Winston–Salem
+Amex	Tucson
+Visa	Baltimore
+Discover	Lubbock
+MasterCard	Plano
+MasterCard	Norfolk
+Amex	Charlotte
+Amex	New York
+MasterCard	Reno
+Amex	Tampa
+Visa	Boston
+Visa	Philadelphia
+Cash	Lincoln
+Cash	Jacksonville
+MasterCard	San Francisco
+Discover	Toledo
+Cash	Corpus Christi
+Cash	Honolulu
+MasterCard	Lubbock
+MasterCard	Scottsdale
+Cash	Louisville
+Amex	Durham
+Visa	Lexington
+Visa	Minneapolis
+MasterCard	El Paso
+Discover	Long Beach
+Visa	Charlotte
+Cash	Winston–Salem
+Discover	Anaheim
+MasterCard	Oakland
+Amex	Dallas
+Discover	Santa Ana
+Cash	Memphis
+Cash	Charlotte
+Cash	Nashville
+Amex	Oakland
+Amex	Baltimore
+MasterCard	Columbus
+Visa	St. Petersburg
+Discover	Seattle
+Amex	San Bernardino
+MasterCard	Wichita
+Discover	Mesa
+Amex	Anaheim
+Cash	Seattle
+Visa	Baltimore
+Cash	Washington
+Amex	Denver
+Discover	Tulsa
+MasterCard	San Antonio
+Discover	Oklahoma City
+MasterCard	Garland
+Discover	Houston
+MasterCard	Seattle
+Amex	Rochester
+MasterCard	Tampa
+Discover	Lexington
+Cash	Fremont
+Visa	Arlington
+Cash	Mesa
+MasterCard	Anaheim
+Discover	Irving
+Amex	Baton Rouge
+Visa	Bakersfield
+Discover	Toledo
+MasterCard	Chula Vista
+Visa	North Las Vegas
+MasterCard	Mesa
+Visa	Nashville
+Cash	Jersey City
+Cash	Virginia Beach
+Visa	Oklahoma City
+Visa	Birmingham
+Visa	Atlanta
+MasterCard	New York
+Amex	Glendale
+Amex	Greensboro
+Discover	Nashville
+MasterCard	Tampa
+Visa	Lubbock
+Cash	Rochester
+Visa	San Diego
+Amex	Nashville
+MasterCard	Washington
+Amex	Baltimore
+MasterCard	Riverside
+Amex	Corpus Christi
+Amex	Irvine
+Discover	Baltimore
+Cash	El Paso
+Cash	Corpus Christi
+Discover	Nashville
+Amex	Spokane
+Visa	Kansas City
+Cash	Houston
+Discover	Long Beach
+MasterCard	Birmingham
+Visa	Cincinnati
+Visa	Portland
+Visa	Greensboro
+Cash	St. Louis
+MasterCard	Jersey City
+MasterCard	Columbus
+Amex	Honolulu
+Amex	North Las Vegas
+Visa	Scottsdale
+Discover	Winston–Salem
+Discover	San Bernardino
+Amex	Albuquerque
+Discover	Richmond
+Amex	Anaheim
+Discover	Irving
+Visa	Columbus
+MasterCard	Colorado Springs
+Amex	Indianapolis
+Cash	Washington
+MasterCard	Bakersfield
+MasterCard	Albuquerque
+Cash	Houston
+Cash	Durham
+MasterCard	Richmond
+Visa	Greensboro
+MasterCard	Fremont
+Discover	Greensboro
+Amex	Boston
+Discover	San Antonio
+Discover	Philadelphia
+Visa	Chicago
+Discover	Nashville
+MasterCard	Lubbock
+Visa	Irving
+Amex	Chesapeake
+Visa	Scottsdale
+Visa	Buffalo
+MasterCard	Anaheim
+Visa	Tulsa
+Amex	Albuquerque
+Amex	Fort Wayne
+MasterCard	Lincoln
+Cash	St. Petersburg
+Amex	Indianapolis
+MasterCard	Louisville
+MasterCard	Reno
+Cash	Anchorage
+Discover	Irvine
+Discover	Irving
+Cash	Scottsdale
+Amex	Irvine
+Discover	Plano
+Visa	Spokane
+MasterCard	Wichita
+Visa	Chula Vista
+Discover	Birmingham
+Cash	Gilbert
+Discover	Sacramento
+Cash	Boston
+MasterCard	Fresno
+MasterCard	Kansas City
+Discover	Columbus
+Cash	San Jose
+Cash	Atlanta
+MasterCard	Stockton
+MasterCard	Saint Paul
+Cash	Laredo
+Cash	Sacramento
+Amex	Austin
+Cash	Chesapeake
+Cash	Albuquerque
+MasterCard	San Francisco
+Amex	Mesa
+Amex	Henderson
+MasterCard	Seattle
+Visa	New York
+Amex	New Orleans
+Discover	Hialeah
+Amex	Cleveland
+Discover	Baton Rouge
+Visa	Reno
+Discover	Bakersfield
+Amex	Lubbock
+Discover	Arlington
+Discover	Milwaukee
+Amex	Indianapolis
+MasterCard	Corpus Christi
+Discover	Omaha
+Visa	Los Angeles
+Cash	Chesapeake
+MasterCard	Glendale
+MasterCard	Richmond
+Discover	Cincinnati
+Discover	Sacramento
+Discover	Mesa
+Cash	San Jose
+Discover	San Jose
+MasterCard	Fort Worth
+MasterCard	Garland
+Discover	Anaheim
+Cash	Birmingham
+MasterCard	Albuquerque
+Discover	Raleigh
+Amex	Miami
+Visa	San Bernardino
+Cash	Newark
+Discover	Gilbert
+Cash	Richmond
+Cash	Las Vegas
+Cash	San Francisco
+MasterCard	Portland
+Amex	San Francisco
+Amex	San Jose
+Cash	Colorado Springs
+Amex	Jersey City
+Discover	Lincoln
+Discover	Austin
+Discover	Norfolk
+Visa	Raleigh
+Amex	Arlington
+MasterCard	San Jose
+Visa	Indianapolis
+Visa	Honolulu
+Discover	Anchorage
+Visa	Stockton
+Cash	Tampa
+Amex	Baton Rouge
+MasterCard	Minneapolis
+Cash	Spokane
+Discover	Sacramento
+Amex	Lincoln
+Visa	Saint Paul
+Cash	Toledo
+MasterCard	Aurora
+Discover	Detroit
+Cash	Minneapolis
+Discover	Laredo
+Visa	Plano
+Discover	Baltimore
+MasterCard	Mesa
+Cash	Mesa
+Visa	Fremont
+Amex	Irving
+Discover	Buffalo
+MasterCard	Oklahoma City
+Cash	Boise
+MasterCard	Orlando
+Visa	Newark
+Discover	Hialeah
+Visa	Greensboro
+MasterCard	Fort Worth
+Cash	San Jose
+Visa	Sacramento
+Visa	Aurora
+Visa	Saint Paul
+Discover	Richmond
+Visa	Glendale
+Amex	Chula Vista
+MasterCard	Los Angeles
+Amex	Richmond
+Cash	Pittsburgh
+Cash	Wichita
+Discover	Toledo
+MasterCard	Tucson
+Visa	Portland
+Amex	Dallas
+Discover	Glendale
+MasterCard	Austin
+Cash	Newark
+Discover	Tucson
+Discover	Denver
+Discover	Colorado Springs
+Discover	Seattle
+Visa	Winston–Salem
+Amex	Phoenix
+Cash	St. Petersburg
+Cash	Baton Rouge
+Amex	Irvine
+Discover	Oklahoma City
+Discover	Chicago
+Amex	Boston
+Amex	Greensboro
+Cash	Minneapolis
+Cash	Corpus Christi
+Amex	Garland
+Visa	San Jose
+Discover	St. Petersburg
+Discover	Portland
+MasterCard	Minneapolis
+MasterCard	Washington
+Discover	Chicago
+MasterCard	Omaha
+Amex	El Paso
+Discover	Reno
+Cash	Toledo
+Cash	New York
+Visa	Henderson
+Cash	Irvine
+MasterCard	Mesa
+Visa	Madison
+Cash	El Paso
+Visa	Tucson
+Amex	Minneapolis
+Discover	Anchorage
+Discover	Kansas City
+Amex	Baltimore
+MasterCard	Bakersfield
+Cash	Saint Paul
+MasterCard	Newark
+MasterCard	Wichita
+MasterCard	Memphis
+Amex	Tucson
+Amex	Norfolk
+Amex	Milwaukee
+Visa	Newark
+Visa	Charlotte
+MasterCard	Kansas City
+Visa	Scottsdale
+Discover	Oakland
+Cash	Chesapeake
+Visa	Henderson
+Visa	Cleveland
+MasterCard	Pittsburgh
+Cash	Wichita
+Cash	Sacramento
+Visa	Memphis
+Visa	Fort Worth
+Cash	Chicago
+Cash	St. Petersburg
+Amex	San Francisco
+MasterCard	Madison
+MasterCard	Aurora
+Cash	Birmingham
+Discover	Baltimore
+Amex	San Antonio
+MasterCard	Laredo
+Visa	Columbus
+Amex	Chicago
+Amex	Greensboro
+Visa	Fremont
+Discover	Winston–Salem
+MasterCard	Milwaukee
+Visa	Colorado Springs
+Cash	Saint Paul
+Discover	Fort Worth
+Discover	Omaha
+Visa	Chandler
+Discover	Colorado Springs
+Discover	Durham
+Amex	Oklahoma City
+Cash	Detroit
+Visa	Reno
+Discover	Plano
+Visa	Chicago
+Visa	Columbus
+Amex	San Bernardino
+MasterCard	San Jose
+MasterCard	Miami
+Visa	Toledo
+Cash	Seattle
+MasterCard	Hialeah
+Amex	Toledo
+Discover	Gilbert
+Discover	Hialeah
+MasterCard	Oakland
+Cash	Rochester
+Discover	Lincoln
+Cash	Anchorage
+MasterCard	Fremont
+Visa	Las Vegas
+Amex	Anchorage
+Amex	Chandler
+MasterCard	Detroit
+Visa	Virginia Beach
+Cash	Milwaukee
+Amex	North Las Vegas
+Visa	Norfolk
+Cash	Pittsburgh
+MasterCard	Winston–Salem
+MasterCard	New Orleans
+Discover	Nashville
+Amex	Detroit
+MasterCard	San Francisco
+Discover	Las Vegas
+Discover	Garland
+MasterCard	Fort Wayne
+MasterCard	Lexington
+Cash	North Las Vegas
+Visa	Milwaukee
+Discover	Richmond
+Cash	Chandler
+Discover	Lexington
+MasterCard	Mesa
+MasterCard	Buffalo
+Amex	Corpus Christi
+Amex	Indianapolis
+Visa	Miami
+Cash	Newark
+Cash	Richmond
+Cash	Aurora
+Amex	Orlando
+Cash	Chicago
+Cash	Gilbert
+Visa	Atlanta
+Discover	Fremont
+Cash	Albuquerque
+Cash	Lexington
+Visa	Columbus
+MasterCard	Bakersfield
+Visa	Riverside
+Cash	Albuquerque
+Discover	Richmond
+Visa	Fort Worth
+Visa	Houston
+Discover	Durham
+Visa	Austin
+Discover	Las Vegas
+MasterCard	Raleigh
+Cash	Boston
+Visa	Long Beach
+MasterCard	San Bernardino
+Cash	Long Beach
+Visa	Memphis
+MasterCard	Dallas
+Amex	Houston
+Amex	Miami
+Visa	Louisville
+MasterCard	Chesapeake
+Cash	Scottsdale
+MasterCard	Chicago
+Amex	Tulsa
+Discover	Houston
+Visa	Buffalo
+Amex	Tucson
+Visa	Madison
+Discover	Winston–Salem
+MasterCard	Colorado Springs
+Visa	Chandler
+MasterCard	Rochester
+Amex	San Diego
+Amex	San Bernardino
+Visa	Richmond
+Amex	Tampa
+Visa	Pittsburgh
+Cash	Laredo
+Cash	Oklahoma City
+Visa	Santa Ana
+Cash	Miami
+MasterCard	Colorado Springs
+Discover	Pittsburgh
+Discover	Omaha
+Amex	Jersey City
+Discover	San Francisco
+Cash	Louisville
+Cash	Madison
+Cash	Rochester
+MasterCard	Austin
+Visa	Plano
+Discover	Honolulu
+MasterCard	San Jose
+Visa	Greensboro
+Amex	Las Vegas
+Cash	San Francisco
+Discover	Austin
+Discover	Reno
+Discover	Anchorage
+Visa	Norfolk
+Amex	San Antonio
+Visa	Stockton
+Amex	Tulsa
+Amex	Chandler
+Amex	Houston
+Discover	Greensboro
+Discover	Raleigh
+Amex	Oakland
+Visa	Cincinnati
+MasterCard	Lubbock
+Amex	Baltimore
+MasterCard	San Francisco
+MasterCard	Columbus
+Cash	Greensboro
+MasterCard	Spokane
+Cash	Plano
+Amex	Seattle
+Cash	Houston
+Discover	Long Beach
+Discover	Boston
+MasterCard	Fort Worth
+Discover	Chesapeake
+Amex	Scottsdale
+Amex	San Bernardino
+Amex	Las Vegas
+Discover	Portland
+MasterCard	Boise
+Discover	Los Angeles
+Cash	New Orleans
+Cash	Laredo
+Amex	Norfolk
+MasterCard	Milwaukee
+MasterCard	Tucson
+Visa	Chandler
+Cash	Durham
+Cash	Jersey City
+MasterCard	Baltimore
+MasterCard	Baton Rouge
+Amex	Phoenix
+Amex	Long Beach
+MasterCard	Chula Vista
+Cash	Memphis
+Amex	Washington
+MasterCard	Wichita
+Cash	Honolulu
+Visa	Seattle
+Amex	Austin
+Amex	Fort Wayne
+MasterCard	Sacramento
+Cash	Birmingham
+Visa	El Paso
+Visa	Baton Rouge
+Discover	San Francisco
+Discover	Chula Vista
+Visa	Lubbock
+Cash	Nashville
+Visa	Jersey City
+Cash	Baltimore
+Cash	Irvine
+Visa	Phoenix
+Amex	Albuquerque
+Discover	Tucson
+Visa	New York
+Visa	St. Louis
+Discover	Tampa
+Visa	Denver
+Discover	Reno
+Discover	Chicago
+Cash	Santa Ana
+Amex	Scottsdale
+Visa	Tampa
+MasterCard	Atlanta
+Cash	Boise
+Amex	Baton Rouge
+MasterCard	Virginia Beach
+Amex	Honolulu
+Amex	Detroit
+Cash	Tampa
+Amex	Houston
+Cash	Detroit
+Amex	Henderson
+MasterCard	Fort Wayne
+Amex	Milwaukee
+Visa	Reno
+Amex	Memphis
+Cash	Gilbert
+Discover	Spokane
+Discover	Oklahoma City
+MasterCard	Jersey City
+Discover	San Diego
+Visa	Jersey City
+Amex	Winston–Salem
+Discover	Charlotte
+Discover	Cleveland
+Cash	Lincoln
+MasterCard	Denver
+Cash	New York
+Visa	Kansas City
+Visa	Milwaukee
+Discover	Santa Ana
+Amex	Tampa
+Cash	Tulsa
+Amex	Colorado Springs
+Discover	Phoenix
+Discover	Miami
+Visa	Los Angeles
+Discover	Lincoln
+Visa	Fort Wayne
+Cash	Honolulu
+Amex	Philadelphia
+Cash	Minneapolis
+Visa	Plano
+MasterCard	Tucson
+MasterCard	Colorado Springs
+Visa	Kansas City
+Cash	Garland
+Discover	Boise
+Visa	Cincinnati
+Visa	Norfolk
+Visa	Raleigh
+Discover	Richmond
+Visa	St. Louis
+Visa	Milwaukee
+Cash	San Bernardino
+Visa	Sacramento
+MasterCard	Milwaukee
+Cash	Bakersfield
+Amex	Durham
+Visa	Minneapolis
+Amex	Louisville
+Visa	Boston
+Visa	St. Petersburg
+MasterCard	Scottsdale
+Visa	Santa Ana
+Visa	Scottsdale
+Cash	New York
+Amex	Fresno
+MasterCard	Atlanta
+Amex	Stockton
+Amex	Rochester
+Visa	Anchorage
+Cash	Chandler
+MasterCard	New York
+Discover	Kansas City
+Discover	Lexington
+Visa	New Orleans
+MasterCard	Jacksonville
+Discover	Boise
+Visa	San Diego
+Visa	Lincoln
+Visa	Irving
+Amex	Jacksonville
+MasterCard	Lubbock
+Amex	Saint Paul
+Cash	Norfolk
+MasterCard	Stockton
+Cash	Stockton
+Amex	Scottsdale
+Visa	Chandler
+MasterCard	Glendale
+Amex	Santa Ana
+Amex	Laredo
+Discover	Santa Ana
+MasterCard	Philadelphia
+Cash	Philadelphia
+Visa	Arlington
+Cash	Anaheim
+Visa	Plano
+Discover	Phoenix
+Cash	Garland
+Amex	Las Vegas
+Amex	Boise
+MasterCard	Atlanta
+MasterCard	Aurora
+Amex	Fresno
+Amex	Oakland
+Amex	Jersey City
+Visa	Baltimore
