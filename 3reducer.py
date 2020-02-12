@@ -17,17 +17,14 @@ for line in s:
   # apply the aggregation function
   
   if paymentType == thiskey:
-    #thisvalue = thisvalue + float(amount)
     counter = counter + 1
   else:
     r.write( thiskey + '\t' + str(counter)+'\n')
     # start over when changing keys
     thiskey = paymentType
-    #thisvalue = float(amount)
     counter = 1
 
   # output final entry
-
 r.write( thiskey + '\t' + str(counter)+'\n')
 
 s.close()
